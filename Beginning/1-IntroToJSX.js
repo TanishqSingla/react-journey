@@ -1,4 +1,4 @@
-/* Challenge 1 - Messing with JSX - 1
+/* Challenge 1 - Messing with JSX
     Basic setup:
     1. Create a react app from scratch
 
