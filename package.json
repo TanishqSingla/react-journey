@@ -1,0 +1,23 @@
+{
+  "name": "react-journey",
+  "version": "1.0.0",
+  "description": "This repo contains my journey of learning reactjs, basically all the challenges from basic to advance that I learned while doing react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanishqSingla/react-journey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanishqSingla/react-journey/issues"
+  },
+  "homepage": "https://github.com/TanishqSingla/react-journey#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
