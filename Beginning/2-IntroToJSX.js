@@ -1,5 +1,5 @@
 /*
- *  Challenge 1 - Template literals in JSX
+ *  Challenge 2 - Template literals in JSX
     Basic setup:
     1. Create a react app from scratch
 
